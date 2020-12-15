@@ -52,6 +52,12 @@
   right:-120px;
 }
 .hover-menu:hover div{
-  left:0;
-  opacity:1;
+  left: 0;
+  opacity: 1;
 }
+
+
+.hover-menu: hover div{
+  left: 0;
+  opacity: 1;
+
